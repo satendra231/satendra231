@@ -1,5 +1,5 @@
 <h1 >- 👋 Hi, I’m @satendra231</h1>
-<br><h2><br>
+<br><h2>
 - 👀 I’m interested in web desgning.
 <br>
 - 🌱 I’m currently learning JavaScript and React js .
