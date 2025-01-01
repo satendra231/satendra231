@@ -4,13 +4,13 @@
 <br>
 - 🌱 I’m currently learning JavaScript and React js .
 <br>
-- 💞️ I’m looking to collaborate on ....
+- 💞️ I’m looking to collaborate on Frontend Design.
 <br>
-- 📫 How to reach me ...
+- 📫 How to reach me LinkedIn/twitter.
 <br>
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him.
 <br>
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: chess
 </h2>
 
 <!---
